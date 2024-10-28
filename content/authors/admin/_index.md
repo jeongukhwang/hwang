@@ -19,19 +19,19 @@ highlight_name: true
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
+profiles: 
   - icon: at-symbol
     url: 'mailto:hjlook@unist.ac.kr'
     label: E-mail Me
   - icon: brands/Orcid
     url: [https://twitter.com/GetResearchDev](https://orcid.org/0009-0001-8926-3637)
 
-interests:
+interests: 
   - Interface Science – Adhesion and Wetting
   - Nanoparticles Physics and Chemistry
   - Synthesis of Biocompatible Materials for Implantable Devices
 
-education:
+education: 
   - area: M.S. in Chemical Engineering, Aug. 2020–Aug. 2022
     institution: Ulsan National Institute of Science and Technology (UNIST)
     date_start: Aug. 2020
@@ -42,7 +42,7 @@ education:
     date_start: Mar. 2014
     date_end: Feb. 2020
     
-Research Experience:
+research Experience: 
   - position: Researcher, Sep. 2022–current
     company_name: Advanced Functional Polymers Research Center, Korea Research Institute of Chemical Technology (KRICT)
     date_start: Sep. 2022
@@ -53,7 +53,7 @@ Research Experience:
     date_start: Aug. 2020
     date_end: Aug. 2022
 
-Honors and Awards:
+honors and Awards: 
   - position: Excellent Paper Presentation Award (Poster) Nov. 2022
     company_name: The Korean Society of Adhesion & Interfaces
 
@@ -64,7 +64,7 @@ Honors and Awards:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+awards: 
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
