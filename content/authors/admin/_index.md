@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 황정욱
+title: Jeonguk Hwang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jeonguk Hwang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jeonguk
+last_name: Hwang
 
 # Status emoji
 status:
