@@ -42,7 +42,7 @@ education:
     date_start: Mar. 2014
     date_end: Feb. 2020
     
-research Experience: 
+research_experience: 
   - position: Researcher, Sep. 2022–current
     company_name: Advanced Functional Polymers Research Center, Korea Research Institute of Chemical Technology (KRICT)
     date_start: Sep. 2022
@@ -53,7 +53,7 @@ research Experience:
     date_start: Aug. 2020
     date_end: Aug. 2022
 
-honors and Awards: 
+honors_and_awards: 
   - position: Excellent Paper Presentation Award (Poster) Nov. 2022
     company_name: The Korean Society of Adhesion & Interfaces
 
