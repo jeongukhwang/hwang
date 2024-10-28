@@ -20,7 +20,7 @@ highlight_name: true
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:hjlook@unist.ac.kr'
+    url: 'hjlook@unist.ac.kr'
     label: E-mail Me
   - icon: brands/Orcid
     url: https://orcid.org/0009-0001-8926-3637
