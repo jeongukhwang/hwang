@@ -41,6 +41,25 @@ education:
     date_start: Mar. 2014
     date_end: Feb. 2020
 
+research_experience:
+  - position: Researcher, Sep. 2022–current
+    company_name: Advanced Functional Polymers Research Center, Korea Research Institute of Chemical Technology (KRICT)
+    date_start: Sep. 2022
+    date_end: current
+
+  - position: Graduate student (M.S. Course) Aug. 2020–Aug. 2022
+    company_name: Ulsan National Institute of Science and Technology (UNIST)
+    date_start: Aug. 2020
+    date_end: Aug. 2022
+
+honors_and_awards:
+  - position: Excellent Paper Presentation Award (Poster) Nov. 2022
+    company_name: The Korean Society of Adhesion & Interfaces
+
+  - position: UNIST Graduate Scholarship Aug. 2020–Aug. 2022
+    company_name: Ulsan National Institute of Science and Technology (UNIST)
+    
+
 # Awards.
 # Add/remove as many awards below as you like.
 # Only `title`, `awarder`, and `date` are required.
